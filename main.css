@@ -157,3 +157,15 @@ main {
 .task .actions .delete {
     color: crimson  ;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: .5rem;
+}
+
+footer a {
+    text-decoration: none;
+    color: var(--purple);
+}
