@@ -1,12 +1,12 @@
 <h1 align="center">
-   Dashboard StarWars
+   Lista de Tarefas
 </h1>
 
 <h1 align="center">
-    <img src="assets/capa.jpeg">
+    <img src="capa.png">
 </h1>
 
-<h3 align="center">Você pode acessar o projeto <a href="https://dashboard-starwars.vercel.app/" target="_blank">clicando aqui</a></h3>
+<h3 align="center">Você pode acessar o projeto <a href="https://listadetarefas-beryl.vercel.app/" target="_blank">clicando aqui</a></h3>
 
 ---
 
@@ -14,11 +14,10 @@
 
 # Sobre o projeto
 
-**Dashboard StarWars** é um projeto que fiz seguindo o tutorial da [Isadora Stargalin](https://www.instagram.com/papodedev/)
+**Lista de Tarefas(Task List)** é um projeto que fiz seguindo o tutorial do [Tyler Potts](https://www.youtube.com/c/TylerPotts)
 </br>
 </br>
-"Fiz esse projeto para melhorar minhas habilidades em HTML flexbox e Javascript. No tutorial a Isa
-utiliza a API swapi de Star Wars."
+"Esse é um dos projetos que estou desenvolvendo para me aperfeiçoar no **JavaScript** antes de começar a estudar **React**."
 
 <br/>
 
@@ -27,7 +26,6 @@ utiliza a API swapi de Star Wars."
 - [Html](https://www.w3schools.com/html/)
 - [Css](https://www.w3schools.com/css/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Swapi](https://swapi.dev/)
 
 ---
 
@@ -37,11 +35,11 @@ utiliza a API swapi de Star Wars."
 
 ```bash
 # Clonar o repositório
-$ git clone https://github.com/mateusarcedev/dashboard-starwars
+$ git clone https://github.com/mateusarcedev/listadetarefas
 # Entrar no diretório
-$ cd dashboard-starwars
+$ cd listadetarefas
 ```
 
 ---
 
-<p align="center"> Desenvolvido por <a href="https://www.linkedin.com/in/mateus-arce/">Mateus Arce</a> ✌🏼</p>
+<p align="center"> Desenvolvido por <a href="https://www.linkedin.com/in/mateus-arce/">Mateus Arce</a>✌🏼</p>
